@@ -5,7 +5,6 @@ Welcome to the Analog Clock project! This web application presents a classic ana
 ### Features:
 - Analog clock display
 - Digital clock display
-- Responsive design
 
 ### Usage:
 1. Clone the repository.
